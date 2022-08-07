@@ -6,7 +6,7 @@
 
 # Screenshot
 
-![Project 7](../Project-7-ss.png)
+![Project 7](./Project-7-ss.png)
 
 # Project Link
 
